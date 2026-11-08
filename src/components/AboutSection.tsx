@@ -4,8 +4,8 @@ function AboutSection() {
       <h1 className="text-xl font-semibold">About me</h1>
       <div className="mt-5">
         <p className="mt-2">
-          As a vocational high school (SMK) graduate, I am passionate about implementing clean architecture and minimizing reliance on frameworks. I prefer leveraging the built-in features (standard libraries) provided by a technology to
-          ensure optimal performance, while consistently maintaining clean, readable code over which I have full control. That said, I also actively utilize third-party libraries when they help streamline the development process.
+          As a vocational high school (SMK) graduate with a strong interest in implementing (Clean Architecture) and minimizing dependency on frameworks, I prefer leveraging built-in standard libraries. This approach ensures optimal
+          performance while keeping the codebase clean, readable, and fully under my control. That said, I am also open to using third-party libraries and tools whenever they help streamline the development process.
         </p>
       </div>
     </section>

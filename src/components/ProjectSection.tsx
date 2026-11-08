@@ -11,9 +11,8 @@ function ProjectSection() {
             <span className="text-sm">September - 2026</span>
             <div className="mt-2 ms-3">
               <p>
-                This is a simple mini-banking application that implements Clean Architecture and a microservices pattern with gRPC. I focused on writing highly efficient code avoiding excessive pointer usage and paying close attention to
-                fine details to maintain code cleanliness and utilized ACID principles with `BeginTx` to ensure a single request can handle multiple tasks while maintaining data consistency. Furthermore, the application relies on native Go
-                implementations wherever possible to ensure stable performance and avoid framework dependencies, though I did incorporate select third-party libraries to streamline the development process.
+                A simple banking application built using Go, featuring native performance and an implementation of *Clean Architecture*. The application employs a minimalist design with minimal third-party dependencies, and its modular
+                structure facilitates unit testing, enhances code readability, and provides technological flexibility for the future.
               </p>
               <p className="my-2 font-semibold text-sm">Golang - MySQL - Microservices - Clean Architecture - gRPC - net/http - database/sql - go-sql-driver - testify </p>
               <a href="https://github.com/jnjunaedi/mini-bank" className="block py-1 px-3 bg-gray-300 text-center mt-5">
