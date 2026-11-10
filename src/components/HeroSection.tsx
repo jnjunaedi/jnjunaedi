@@ -16,7 +16,7 @@ function HeroSection() {
           <li>He/him</li>
           <li>jujunjunaedijn@gmail.com</li>
           <li>
-            <a href="" className="underline text-blue-800">
+            <a href="https://drive.google.com/file/d/1-ciDxhDyEmDMfcNnDaCnHqJnrQKhLPgP/view?usp=drive_link" className="underline text-blue-800">
               Resume
             </a>
           </li>

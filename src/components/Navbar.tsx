@@ -36,7 +36,12 @@ function Navbar() {
           </a>
         </li>
         <li className="cursor-pointer">
-          <a href="#contacts " className="sm:underline">
+          <a href="#certification" className="sm:underline">
+            Certification
+          </a>
+        </li>
+        <li className="cursor-pointer">
+          <a href="#contacts" className="sm:underline">
             Contacts
           </a>
         </li>
