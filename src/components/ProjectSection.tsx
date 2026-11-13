@@ -71,7 +71,7 @@ function ProjectSection() {
             <div className="mt-2 ms-3">
               <p>Creating interface layouts (landing pages, multi-page sites) and ensuring visual consistency across specific screen sizes.</p>
               <p className="my-2 font-semibold text-sm">TypeScript - React - TailwindCSS - Bootstrap - HTML/CSS</p>
-              <a href="" className="block py-1 px-3 bg-gray-300 text-center mt-5">
+              <a href="https://jnfrontend.vercel.app" className="block py-1 px-3 bg-gray-300 text-center mt-5">
                 Visit
               </a>
             </div>
