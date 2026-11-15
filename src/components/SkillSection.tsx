@@ -7,6 +7,7 @@ function SkillSection() {
           <p>Programming Languages</p>
           <div className=" flex flex-wrap gap-2 mt-2">
             <p className="bg-gray-200 w-fit p-1.5">Golang</p>
+            <p className="bg-gray-200 w-fit p-1.5">TypeScript</p>
           </div>
         </li>
         <li>

@@ -5,9 +5,9 @@ function CertificationSection() {
   const [isZoom, setIsZoom] = useState<boolean>(false);
   return (
     <section id="certification">
-      <div className="mt-16">
+      <div className="mx-3 mt-16">
         <h1 className="text-lg font-semibold"> Certification & Certificate </h1>
-        <div className="grid grid-cols-2">
+        <div className="grid grid-cols-1 sm:grid-cols-2">
           <div className="ms-3 mt-5">
             <div className="relative inline-block overflow-hidden border border-slate-100 cursor-zoom-in">
               <img alt="Vocational competency assessment" className="w-60 h-auto hover:opacity-90 transition-opacity" />
